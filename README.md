@@ -1,1 +1,1 @@
-# Event-Management-System-Project
+# AED_FinalProject
